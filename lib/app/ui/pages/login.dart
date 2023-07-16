@@ -177,3 +177,9 @@ class InputLogin extends StatelessWidget {
     );
   }
 }
+
+class validacion{
+  validacionCampos(String text,dynamic entrada){
+
+  }
+}

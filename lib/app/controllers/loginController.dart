@@ -42,18 +42,27 @@ class LoginController extends GetxController {
     }
   }
   Future<void> ingresarEmail(String email, String passwd) async {
+    var mesaje;
     try {
       UserCredential user = await authf.signInWithEmailAndPassword(email: email, password: passwd);
       usuario.value = await usuarioController.obtenerUsuario(user.user!.uid) ?? Usuario();
 
       if(usuario.value.id == null){
-        Get.snackbar('Error', 'Usuario y o contraseñas no validos', snackPosition: SnackPosition.BOTTOM);
+        //Get.snackbar('Error', 'Usuario y o contraseñas no validos', snackPosition: SnackPosition.BOTTOM);
+        mesaje = "Usuario o Contraseña no valida";
+        return mesaje;
       }else if(usuario.value.tipoUsuario == 3){
-        Get.to(const HomeAdminPage());
+        //Get.to(const HomeAdminPage());
+        mesaje = "Ingreso Exitoso";
+        return mesaje;
       }else if(usuario.value.tipoUsuario == 2){
-        Get.to(const HomePageMedico());
+        //Get.to(const HomePageMedico());
+        mesaje = "Ingreso Exitoso";
+        return mesaje;
       }else{
-        Get.to(const HomePage());
+        //Get.to(const HomePage());
+        mesaje = "Ingreso Exitoso";
+        return mesaje;
       }
     } on FirebaseAuthException catch (e) {
         Get.snackbar('Error', 'Usuario y o contraseñas no validos', snackPosition: SnackPosition.BOTTOM);

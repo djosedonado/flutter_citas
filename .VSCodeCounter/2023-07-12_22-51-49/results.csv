@@ -1,0 +1,25 @@
+"filename", "language", "Dart", "comment", "blank", "total"
+"c:\Users\danilo donado\Desktop\prueba usabilidad\MED_CITA\flutter_citas\lib\app\app.dart", "Dart", 20, 0, 2, 22
+"c:\Users\danilo donado\Desktop\prueba usabilidad\MED_CITA\flutter_citas\lib\app\controllers\citaController.dart", "Dart", 28, 0, 3, 31
+"c:\Users\danilo donado\Desktop\prueba usabilidad\MED_CITA\flutter_citas\lib\app\controllers\loginController.dart", "Dart", 70, 0, 8, 78
+"c:\Users\danilo donado\Desktop\prueba usabilidad\MED_CITA\flutter_citas\lib\app\controllers\medicoController.dart", "Dart", 71, 1, 11, 83
+"c:\Users\danilo donado\Desktop\prueba usabilidad\MED_CITA\flutter_citas\lib\app\controllers\recetaController.dart", "Dart", 21, 0, 5, 26
+"c:\Users\danilo donado\Desktop\prueba usabilidad\MED_CITA\flutter_citas\lib\app\controllers\usuarioController.dart", "Dart", 57, 0, 4, 61
+"c:\Users\danilo donado\Desktop\prueba usabilidad\MED_CITA\flutter_citas\lib\app\models\cita.dart", "Dart", 39, 0, 3, 42
+"c:\Users\danilo donado\Desktop\prueba usabilidad\MED_CITA\flutter_citas\lib\app\models\medico.dart", "Dart", 34, 0, 7, 41
+"c:\Users\danilo donado\Desktop\prueba usabilidad\MED_CITA\flutter_citas\lib\app\models\usuario.dart", "Dart", 60, 0, 4, 64
+"c:\Users\danilo donado\Desktop\prueba usabilidad\MED_CITA\flutter_citas\lib\app\ui\pages\admin\crear_cuenta_medico.dart", "Dart", 225, 15, 16, 256
+"c:\Users\danilo donado\Desktop\prueba usabilidad\MED_CITA\flutter_citas\lib\app\ui\pages\admin\home_admin.dart", "Dart", 159, 0, 9, 168
+"c:\Users\danilo donado\Desktop\prueba usabilidad\MED_CITA\flutter_citas\lib\app\ui\pages\crear_cuenta.dart", "Dart", 285, 0, 13, 298
+"c:\Users\danilo donado\Desktop\prueba usabilidad\MED_CITA\flutter_citas\lib\app\ui\pages\login.dart", "Dart", 170, 0, 10, 180
+"c:\Users\danilo donado\Desktop\prueba usabilidad\MED_CITA\flutter_citas\lib\app\ui\pages\medicos\asignar_receta.dart", "Dart", 78, 0, 12, 90
+"c:\Users\danilo donado\Desktop\prueba usabilidad\MED_CITA\flutter_citas\lib\app\ui\pages\medicos\home_medico.dart", "Dart", 82, 0, 7, 89
+"c:\Users\danilo donado\Desktop\prueba usabilidad\MED_CITA\flutter_citas\lib\app\ui\pages\medicos\opciones_medico.dart", "Dart", 97, 0, 6, 103
+"c:\Users\danilo donado\Desktop\prueba usabilidad\MED_CITA\flutter_citas\lib\app\ui\pages\medicos\pacientes_lista.dart", "Dart", 100, 0, 7, 107
+"c:\Users\danilo donado\Desktop\prueba usabilidad\MED_CITA\flutter_citas\lib\app\ui\pages\paciente\apartar_cita.dart", "Dart", 57, 0, 8, 65
+"c:\Users\danilo donado\Desktop\prueba usabilidad\MED_CITA\flutter_citas\lib\app\ui\pages\paciente\home.dart", "Dart", 110, 0, 7, 117
+"c:\Users\danilo donado\Desktop\prueba usabilidad\MED_CITA\flutter_citas\lib\app\ui\pages\paciente\medicos_lista.dart", "Dart", 104, 80, 12, 196
+"c:\Users\danilo donado\Desktop\prueba usabilidad\MED_CITA\flutter_citas\lib\app\ui\pages\paciente\opciones.dart", "Dart", 90, 0, 8, 98
+"c:\Users\danilo donado\Desktop\prueba usabilidad\MED_CITA\flutter_citas\lib\app\ui\pages\paciente\receta.dart", "Dart", 132, 0, 15, 147
+"c:\Users\danilo donado\Desktop\prueba usabilidad\MED_CITA\flutter_citas\lib\main.dart", "Dart", 23, 0, 2, 25
+"Total", "-", 2112, 96, 179, 2387
