@@ -24,7 +24,6 @@ void main() {
       formKey.currentState!.validate();
       await tester.pump();
       expect(find.text('Dominio Incorrecto'), findsOneWidget);
-
       //formKey.currentState!.save();
     });
 
